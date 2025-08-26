@@ -1,4 +1,4 @@
-# DontKillMyApp
+#Olatymoney 
 
 Helps you set up your phone background tasks so that your apps can finally work for YOU even when not looking at the screen right now. See how is your phone doing and test different settings with DontKillMyApp benchmark.
 
